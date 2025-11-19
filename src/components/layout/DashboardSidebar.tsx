@@ -24,7 +24,7 @@ export default function DashboardSidebar() {
             <MenuItem value="/projects" icon={<Briefcase />}>
                 Projects
             </MenuItem>
-            <MenuItem value="/talent-pool" icon={<Users />}>
+            <MenuItem value="/candidates" icon={<Users />}>
                 Talent Pool
             </MenuItem>
             <MenuItem value="/reports" icon={<FileBarChart />}>
